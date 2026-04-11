@@ -1,0 +1,8 @@
+=== Unique Tech: AI Decision Tree Rules ===
+|--- PM2.5_Level <= 16.50
+|   |--- CO2_Level <= 725.00
+|   |   |--- class: 2
+|   |--- CO2_Level >  725.00
+|   |   |--- class: 1
+|--- PM2.5_Level >  16.50
+|   |--- class: 0
