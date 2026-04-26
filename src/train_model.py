@@ -1,5 +1,5 @@
 #----------------------------------------------------------------------------
-# * Project: Unique Tech Air Quality Monitor (SCD40 Sensor)
+# * Project: Unique Tech Wellness ML (Python)
 #* Author: Unique Tech Team
 #* License: MIT License
 #* * Copyright (c) 2026 Unique Tech
